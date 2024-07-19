@@ -15,4 +15,4 @@ Hi, in this repository, me and my friend FrabSito share our footsteps learning C
   <li>YIPPIEEEEE, our TicTacToe is working!</li>
 </ol>
 
-Yes. We went from Hello World to making a game.
+Yes. We went from Hello World to making a game. We thought it would be a fun way to learn C++.
